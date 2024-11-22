@@ -60,5 +60,3 @@ All contributions are appreciated!
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ---
-
-Enjoy playing with colors! 🎨
