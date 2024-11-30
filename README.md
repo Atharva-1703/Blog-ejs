@@ -3,6 +3,11 @@
 A simple and elegant blog application built with **EJS** for templating and a server-side framework like **Node.js**.
 This project allows users to create, edit, and delete blog posts, making it an excellent starting point for a personal or portfolio blog.
 
+## Live Demo
+
+[My Blog](https://blog-ejs-5a9k.onrender.com)
+
+
 ## 🚀 Features
 
 - Create, edit, and delete blog posts.
